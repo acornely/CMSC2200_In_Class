@@ -13,7 +13,7 @@ public class Main {
     //64 bits of precision
     double d = 2.5;
     boolean bool = true;
-
+    boolean bool2 = false;
     static String str = "fkjdsaf;kjsajfoirejfoeqj;ofj";
 
     public static void main(String[] args) {
