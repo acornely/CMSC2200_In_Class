@@ -20,5 +20,10 @@ public class Main {
         str = str + "a";
         System.out.println(str);
     }
+
+    public void method1() {
+        char b = a;
+        String s = str;
+    }
     //this is a comment
 }
