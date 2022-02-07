@@ -1,5 +1,6 @@
 public class Dog {
     String name;
+    
     static boolean hasTail = true;
 
     //default constructor
