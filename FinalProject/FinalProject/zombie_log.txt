@@ -1,0 +1,162 @@
+Player created a warrior team.
+Player created a stealth team.
+Player added a teammate to a team.
+Player added a bat to a team.
+Player added a shotgun to a team.
+Player added a crossbow to a team.
+Player added a pack of 10 bullets to a team.
+Player added 10 arrows to a team.
+Player buys a warrior teammate.
+Player buys a warrior teammate.
+Player buys a warrior teammate.
+Player buys a warrior teammate.
+Player buys a warrior teammate.
+Player buys a warrior teammate.
+Player buys a warrior teammate.
+Player buys a warrior teammate.
+Player buys a warrior teammate.
+Player buys a warrior teammate.
+Player buys a warrior teammate.
+Player buys a warrior teammate.
+Player buys a warrior teammate.
+Player buys a warrior teammate.
+Player buys a warrior teammate.
+Player buys a bat.
+Player buys a shotgun
+Player buys a shotgun
+Player buys a shotgun
+Player buys a shotgun
+Player buys a shotgun
+Player buys a shotgun
+Player buys a shotgun
+Player buys a shotgun
+Player buys a shotgun
+Player buys a shotgun
+Player buys a shotgun
+Player buys a shotgun
+Player buys a shotgun
+Team was deployed at row 5 col 1
+Team at row 5 col 1 moved to row 7 col 2
+Team at row 7 col 2 moved to row 9 col 3
+Team at row 9 col 3 moved to row 11 col 4
+Team at row 11 col 4 moved to row 13 col 5
+Team at row 13 col 5 moved to row 16 col 7
+Team at row 16 col 7 moved to row 17 col 8
+Team at row 17 col 8 moved to row 17 col 9
+Team at row 17 col 9 moved to row 18 col 10
+Team at row 18 col 10 moved to row 19 col 10
+Row 19 col 10 is the location of a house house; however, the item is not in this house.
+Team at row 19 col 10 moved to row 16 col 13
+Team at row 16 col 13 moved to row 16 col 14
+Team at row 16 col 14 moved to row 16 col 19
+Team at row 16 col 19 moved to row 16 col 20
+Team at row 16 col 20 moved to row 16 col 24
+Team at row 16 col 24 moved to row 15 col 25
+Row 15 col 25 is the location of a house house; however, the item is not in this house.
+Team at row 15 col 25 moved to row 14 col 25
+Team at row 14 col 25 moved to row 10 col 25
+Team at row 10 col 25 moved to row 10 col 29
+Team at row 10 col 29 moved to row 10 col 31
+Team at row 10 col 31 moved to row 7 col 33
+Team at row 7 col 33 moved to row 3 col 35
+Row 3 col 35 is the location of a house house; however, the item is not in this house.
+Team at row 3 col 35 moved to row 3 col 29
+Team at row 3 col 29 moved to row 3 col 27
+Team at row 3 col 27 moved to row 3 col 23
+Team at row 3 col 23 moved to row 5 col 20
+Team at row 5 col 20 moved to row 7 col 20
+Row 7 col 20 is the location of the house. The item is found in this house.
+Team at row 7 col 20 moved to row 7 col 21
+Team at row 7 col 21 moved to row 7 col 26
+Team at row 7 col 26 moved to row 5 col 30
+Team at row 5 col 30 moved to row 5 col 32
+Team at row 5 col 32 moved to row 7 col 36
+Team at row 7 col 36 moved to row 10 col 38
+Team at row 10 col 38 moved to row 9 col 38
+Team at row 9 col 38 moved to row 13 col 38
+Team at row 13 col 38 moved to row 13 col 33
+Team at row 13 col 33 moved to row 13 col 32
+Team at row 13 col 32 moved to row 15 col 31
+Team at row 15 col 31 moved to row 17 col 31
+Team at row 17 col 31 moved to row 19 col 27
+Team at row 19 col 27 moved to row 18 col 22
+Team at row 18 col 22 moved to row 18 col 20
+Team at row 18 col 20 moved to row 18 col 19
+Team at row 18 col 19 moved to row 18 col 14
+Team at row 18 col 14 moved to row 18 col 9
+Team at row 18 col 9 moved to row 18 col 8
+Team at row 18 col 8 moved to row 18 col 7
+Team at row 18 col 7 moved to row 17 col 2
+Team at row 17 col 2 moved to row 14 col 1
+Team at row 14 col 1 moved to row 13 col 0
+Round 1 is complete. 
+Player buys a pack of bullets
+Player buys a pack of bullets
+Player buys a pack of bullets
+Player buys a pack of bullets
+Player buys a pack of bullets
+Player buys a pack of bullets
+Player buys a pack of bullets
+Player buys a pack of bullets
+Player buys a pack of bullets
+Team was deployed at row 14 col 1
+Team at row 14 col 1 moved to row 14 col 3
+Team at row 14 col 3 moved to row 14 col 4
+Team at row 14 col 4 moved to row 14 col 7
+Team at row 14 col 7 moved to row 14 col 11
+Team at row 14 col 11 moved to row 14 col 12
+Team at row 14 col 12 moved to row 14 col 18
+Team at row 14 col 18 moved to row 14 col 19
+Team at row 14 col 19 moved to row 14 col 21
+Team at row 14 col 21 moved to row 15 col 25
+Row 15 col 25 is the location of the house. The item is found in this house.
+Team at row 15 col 25 moved to row 12 col 24
+Team at row 12 col 24 moved to row 12 col 19
+Team at row 12 col 19 moved to row 12 col 14
+Team at row 12 col 14 moved to row 12 col 11
+Team at row 12 col 11 moved to row 12 col 10
+Team at row 12 col 10 moved to row 12 col 6
+Team at row 12 col 6 moved to row 12 col 1
+Team at row 12 col 1 moved to row 11 col 0
+Round 1 is complete. 
+Team was deployed at row 15 col 1
+Team at row 15 col 1 moved to row 15 col 6
+Team at row 15 col 6 moved to row 17 col 9
+Team at row 17 col 9 moved to row 19 col 10
+Row 19 col 10 is the location of a house house; however, the item is not in this house.
+Team at row 19 col 10 moved to row 19 col 11
+Team at row 19 col 11 moved to row 19 col 12
+Team at row 19 col 12 moved to row 19 col 15
+Team at row 19 col 15 moved to row 19 col 21
+Team at row 19 col 21 moved to row 19 col 22
+Team at row 19 col 22 moved to row 19 col 23
+Team at row 19 col 23 moved to row 16 col 23
+Team at row 16 col 23 moved to row 15 col 25
+Row 15 col 25 is the location of a house house; however, the item is not in this house.
+Team at row 15 col 25 moved to row 13 col 23
+Team at row 13 col 23 moved to row 10 col 22
+Team at row 10 col 22 moved to row 9 col 21
+Team at row 9 col 21 moved to row 7 col 20
+Row 7 col 20 is the location of a house house; however, the item is not in this house.
+Team at row 7 col 20 moved to row 7 col 21
+Team at row 7 col 21 moved to row 7 col 24
+Team at row 7 col 24 moved to row 7 col 28
+Team at row 7 col 28 moved to row 7 col 33
+Team at row 7 col 33 moved to row 6 col 34
+Team at row 6 col 34 moved to row 5 col 34
+Team at row 5 col 34 moved to row 3 col 35
+Row 3 col 35 is the location of a house house; however, the item is not in this house.
+Team at row 3 col 35 moved to row 5 col 37
+Team at row 5 col 37 moved to row 7 col 38
+Team at row 7 col 38 moved to row 7 col 37
+Team at row 7 col 37 moved to row 7 col 32
+Team at row 7 col 32 moved to row 8 col 31
+Team at row 8 col 31 moved to row 8 col 25
+Team at row 8 col 25 moved to row 8 col 22
+Team at row 8 col 22 moved to row 8 col 19
+Team at row 8 col 19 moved to row 8 col 15
+Team at row 8 col 15 moved to row 8 col 10
+Team at row 8 col 10 moved to row 8 col 9
+Team at row 8 col 9 moved to row 8 col 8
+Team at row 8 col 8 moved to row 8 col 3
+Team at row 8 col 3 moved to row 8 col 0
